@@ -1,0 +1,58 @@
+[
+    {
+        "company": "Kee",
+        "role": "Data Enginner",
+        "date": "2025-06-29",
+        "status": "applied",
+        "notes": "Waiting",
+        "username": "Ke"
+    },
+    {
+        "company": "ATS",
+        "role": "Data Engineer",
+        "date": "2025-06-29",
+        "status": "rejected",
+        "notes": "",
+        "username": "Sai"
+    },
+    {
+        "company": "codebasics",
+        "role": "data analyst",
+        "date": "2025-02-02",
+        "status": "applied",
+        "notes": "",
+        "username": "kee"
+    },
+    {
+        "company": "tcs",
+        "role": "business analyst",
+        "date": "2025-02-06",
+        "status": "applied",
+        "notes": "follow-up after 1 week",
+        "username": "kee"
+    },
+    {
+        "company": "codebasics",
+        "role": "data analyst",
+        "date": "2025-06-28",
+        "status": "applied",
+        "notes": "",
+        "username": "keerthana"
+    },
+    {
+        "company": "wipro",
+        "role": "business analyst",
+        "date": "2025-06-30",
+        "status": "approved",
+        "notes": "follow-up after 1 week",
+        "username": "keerthana"
+    },
+    {
+        "company": "tcs",
+        "role": "mis executive",
+        "date": "2025-06-29",
+        "status": "pending",
+        "notes": "follow-up with the recruiter on linkedin",
+        "username": "keerthana"
+    }
+]
